@@ -2,8 +2,8 @@
 # Welcome, this a E-commerce web app, Made by Yonatan Rotman
 
 
-# the app is made with the following technologies:
-# | Readux | React | Tailwind CSS | Django | SMSS | 
+the app is made with the following technologies:
+| Readux | React | Tailwind CSS | Django | SMSS | 
 
 Redux & Reach handels the front (responsive UI, Components etc.) allows us to quickly develop a fast interactive web app.
 
