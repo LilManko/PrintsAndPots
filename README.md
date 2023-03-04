@@ -1,21 +1,53 @@
-# PrintsAndPots
-# Welcome, this a E-commerce web app, Made by Yonatan Rotman
+# Prints And Pots
+## E-commerce web application
+Based on the Udemy course "Django with React | An Ecommerce Website" by Dennis Ivy and Brad Traversy,
+
+The course was published about 2 years ago, 
+i have developed, studied and refactored this project to match the latest Versions of React & Django,
+
+## Technologies:
+* Django: 4.1.4
+* PyJWT: 2.6.0
+* DjangorestFramework: 3.14.0
+* Django-cors-headers: 3.13.0
+* DjangorestFramework-simplejwt==5.2.2
+* React: 18.2.0
+* React-bootstrap: 2.7.0
+* React-redux: 8.0.5
+* React-router-bootstrap: 0.26.2
+* React-router-dom: 6.3.0
+* Redux": 4.2.0
+* Axios: 1.2.2
 
 
-the app is made with the following technologies:
-| Readux | React | Tailwind CSS | Django | SMSS | 
+## Database structure: 
+https://drawsql.app/teams/yonatan-rotman-1/diagrams/prints-pots
 
-Redux & Reach handels the front (responsive UI, Components etc.) allows us to quickly develop a fast interactive web app.
+## Screens and Features
+* Register
+* Login 
+* Products
+* Top rated products in a carusel
+* Cart 
+* Paypal/Credit checkout
+* Product Reviews
+* Order Screen (user)
+* Profile (user)
+* Manage Orders (admin) 
+* Manage Users (admin)
+* Manage Products (admin)
 
-Tailwind CSS will style our app, Tailwind has an easy to use documantation, it controls Sizing, Colors, Shadows, Paragraphs, etc. 
+## Setup
+To run this project, install it locally using npm:
 
-Django handels the backend (database, JSONs, server etc.) basiclly acts as a smart JSON engine,
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+```
 
-SMSS (SQL Server Management Studio) lets us build the database quick and efficant, 
 
-Front components: 
-User(customer) - Navigation Bar, Add/Remove To/From Cart, Register, Login, Payment, Wishlist, Products, Cart, 
-Admin(developer/shop owner) - Add/Remove Product, Update Product,
+
 
 
 
